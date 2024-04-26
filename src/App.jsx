@@ -4,6 +4,7 @@ import './App.css';
 import MyNavbar from "./components/MyNavbar";
 import MyFooter from "./components/MyFooter";
 import HeadingMain from "./components/HeadingMain";
+import FilmRows from "./components/FilmRows";
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <header className="App-header">
 <MyNavbar/>
 <HeadingMain/>
+<FilmRows nameOfFilm = "Harry Potter"/>
 <MyFooter/>
       </header>
     </div>

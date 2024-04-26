@@ -20,31 +20,16 @@ return(
             <div className="row">
               <div className="col footer-links">
                 <p>
-                  <a href="#" className="footer link text-body-tertiary ancorstyle">Audio and Subtitles</a>
+                  <a href="#1" className="footer link text-body-tertiary ancorstyle">Audio and Subtitles</a>
                 </p>
                 <p>
-                  <a href="#" className="footer link text-body-tertiary ancorstyle">Media Center</a>
+                  <a href="#1" className="footer link text-body-tertiary ancorstyle">Media Center</a>
                 </p>
                 <p>
-                  <a href="#" className="footer link text-body-tertiary ancorstyle">Privacy</a>
+                  <a href="#1" className="footer link text-body-tertiary ancorstyle">Privacy</a>
                 </p>
                 <p>
-                  <a href="#" className="footer link text-body-tertiary ancorstyle">Contact us</a>
-                </p>
-              </div>
-            </div>
-          </div>
-          <div className="col">
-            <div className="row">
-              <div className="col footer-links">
-                <p>
-                  <a href="#" className="footer link text-body-tertiary ancorstyle">Audio Description</a>
-                </p>
-                <p>
-                  <a href="#" className="footer link text-body-tertiary ancorstyle">Investor Relations</a>
-                </p>
-                <p>
-                  <a href="#" className="footer link text-body-tertiary ancorstyle">Legal Notices</a>
+                  <a href="#1" className="footer link text-body-tertiary ancorstyle">Contact us</a>
                 </p>
               </div>
             </div>
@@ -53,13 +38,13 @@ return(
             <div className="row">
               <div className="col footer-links">
                 <p>
-                  <a href="#" className="footer link text-body-tertiary ancorstyle">Help Center</a>
+                  <a href="#1" className="footer link text-body-tertiary ancorstyle">Audio Description</a>
                 </p>
                 <p>
-                  <a href="#" className="footer link text-body-tertiary ancorstyle">Jobs</a>
+                  <a href="#1" className="footer link text-body-tertiary ancorstyle">Investor Relations</a>
                 </p>
                 <p>
-                  <a href="#" className="footer link text-body-tertiary ancorstyle">Cookie Preferences</a>
+                  <a href="#1" className="footer link text-body-tertiary ancorstyle">Legal Notices</a>
                 </p>
               </div>
             </div>
@@ -68,13 +53,28 @@ return(
             <div className="row">
               <div className="col footer-links">
                 <p>
-                  <a href="#" className=" footer-link text-body-tertiary ancorstyle"  >Gift Cards</a>
+                  <a href="#1" className="footer link text-body-tertiary ancorstyle">Help Center</a>
                 </p>
                 <p>
-                  <a href="#" className=" text-body-tertiary ancorstyle" >Terms of Use</a>
+                  <a href="#1" className="footer link text-body-tertiary ancorstyle">Jobs</a>
                 </p>
                 <p>
-                  <a href="#" className=" text-body-tertiary ancorstyle">Corporate Information</a>
+                  <a href="#1" className="footer link text-body-tertiary ancorstyle">Cookie Preferences</a>
+                </p>
+              </div>
+            </div>
+          </div>
+          <div className="col">
+            <div className="row">
+              <div className="col footer-links">
+                <p>
+                  <a href="#1" className=" footer-link text-body-tertiary ancorstyle"  >Gift Cards</a>
+                </p>
+                <p>
+                  <a href="#1" className=" text-body-tertiary ancorstyle" >Terms of Use</a>
+                </p>
+                <p>
+                  <a href="#1" className=" text-body-tertiary ancorstyle">Corporate Information</a>
                 </p>
               </div>
             </div>
