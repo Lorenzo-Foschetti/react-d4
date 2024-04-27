@@ -10,6 +10,9 @@
 body {
   background-color: #221f1f;
 }
+.rowPosterImg {
+  object-fit: cover;
+}
 
 h2,
 h4,
