@@ -10,8 +10,8 @@
 body {
   background-color: #221f1f;
 }
-.rowPosterImg {
-  object-fit: cover;
+.imgHeight {
+  max-height: 350px;
 }
 
 h2,

@@ -41,7 +41,7 @@ class FilmRows extends Component {
                 key={film.imdbID}
                 className=" mb-2 text-center "
               >
-                <img className="img-fluid rowPosterImg" src={film.Poster} alt={film.Title} />
+                <img className="img-fluid imgHeight" src={film.Poster} alt={film.Title} />
               </Col>
             );
           })}
