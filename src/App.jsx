@@ -14,6 +14,8 @@ function App() {
 <MyNavbar/>
 <HeadingMain/>
 <Row className="row-cols-2 row-cols-md-4 row-cols-lg-6"> 
+
+
 <FilmRows nameOfFilm = "Harry Potter"/>
 <FilmRows nameOfFilm= "Star Wars"/>
 <FilmRows nameOfFilm= "Batman"/>

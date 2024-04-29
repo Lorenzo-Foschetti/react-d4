@@ -10,8 +10,10 @@
 body {
   background-color: #221f1f;
 }
-.imgHeight {
+.netflixImgStyle {
   max-height: 350px;
+  object-fit: cover;
+  image-resolution: from-image;
 }
 
 h2,
